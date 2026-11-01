@@ -52,6 +52,10 @@ Data protection laws in other countries may differ from those in your jurisdicti
 Please note that the Application utilizes third-party services that have their own Privacy Policy about handling data. Below are the links to the Privacy Policy of the third-party service providers used by the Application:
 
 *   [AdMob](https://policies.google.com/technologies/partner-sites)
+*   [Appodeal](https://appodeal.com/privacy-policy/)
+*   [Unity Ads](https://unity3d.com/legal/privacy-policy)
+*   [Yandex](https://yandex.com/legal/international_ads_privacy_policy/en/)
+*   [InMobi](https://www.inmobi.com/mweb/yes-privacy)
 *   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [AppLovin](https://www.applovin.com/privacy/)
